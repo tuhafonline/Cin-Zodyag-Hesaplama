@@ -42,7 +42,7 @@ public class Main
         else if (year%12 == 10){
             System.out.print("Çin Zodyağı Burcunuz At");
         }
-        else if (year%12 == 12){
+        else if (year%12 == 11){
             System.out.print("Çin Zodyağı Burcunuz Koyun");
         }else {
             System.out.print("Yanlış sayı girdiniz");
